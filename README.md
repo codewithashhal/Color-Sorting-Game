@@ -30,8 +30,5 @@ The project focuses on game logic, event handling, and state management through 
 - Goal: sort all tubes so that each tube contains **one single color**
 
 ---
-
-## ▶️ How to Run
-1. Clone the repository:
    ```bash
    git clone <YOUR_GITHUB_REPO_LINK>
